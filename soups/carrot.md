@@ -15,3 +15,5 @@ Tasty soup
    - Heat the oil or butter 
    - Siimmer: Add the chopped carrots, broth, salt, and pepper to the pot 
    - Blend: Carefully puree the soup until smooth
+
+Enjoy the soup!
